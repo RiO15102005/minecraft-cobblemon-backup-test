@@ -11,5 +11,35 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-05-24 19:21:29 +0700"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_large_stump": {
+    "criteria": {
+      "has_oak_log": "2026-05-24 19:21:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-05-24 19:21:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_oak_log": "2026-05-24 19:21:29 +0700"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/building_blocks/oak_log_bundle": {
+    "criteria": {
+      "has_oak_log": "2026-05-24 19:21:29 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
