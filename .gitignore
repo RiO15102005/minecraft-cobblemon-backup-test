@@ -1,0 +1,6 @@
+logs/
+cache/
+crash-reports/
+*.log
+session.lock
+usercache.json
